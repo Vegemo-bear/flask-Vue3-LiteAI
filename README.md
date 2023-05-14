@@ -4,7 +4,7 @@
 - ☃️ **For the container level, in the front-end Vue3, I added the "login and exit", "user information management" and other functions; Flask at the back end, I adopted a Mysql database to store user information (including tokens).**<br>
 
 ### ❄️ 本地部署视频演示效果 <br>
-https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/166db1fe-05f8-405a-b83e-83899385c70f
+https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/64b4deb3-b510-4e19-859f-e44a14975322
 
 ⛲ ️**The "user management" function of the project, which I will not show here, stores the information of super administrator and ordinary users, which can be added and deleted.**<br>
 
