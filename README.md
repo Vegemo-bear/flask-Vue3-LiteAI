@@ -8,7 +8,7 @@ https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/64b4deb3-b510-
 
 ⛲ ️**The "user management" function of the project, which I will not show here, stores the information of super administrator and ordinary users, which can be added and deleted.**<br>
 
----
+## 
 - ☃️ **In order to let the little friends experience the effect of the algorithm deployment platform, I chose Tencent cloud server to deploy their own algorithm platform.** <br>
 - ☃️ **Here I mainly by judging the user name and identity, to display the corresponding page to different users.** 
 
@@ -17,12 +17,12 @@ https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/1a9a6b30-43db-
 
 ⛲ **At present, I have deployed my algorithm platform to Tencent Cloud server (cheaper, and sometimes slow response), the website is: www.wqbvegeai.xyz. Welcome friends to play (do not register oh ~).**<br>
 
----
+##
 ### ⛈️ Finally, Here are my flask and vue3 project!☔
 - ☁️ [Vegemo-bear's project：flask-LiteAI ‍❤️‍](https://github.com/Vegemo-bear/flask-LiteAI)
 - ☁️ [Vegemo-bear's project：Vue3-LiteAI ‍❤️‍](https://github.com/Vegemo-bear/Vue3-LiteAI)
 
----
+##
 ### ⛈️ Finally and finally, Here are my other blogs!⛈️☔
 - ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://www.zhihu.com/people/ming-yue-yi-jiu-63/posts)
 - ⭐  [Vegemo-bear's home page in CSDN ‍❤️‍](https://blog.csdn.net/Moon_Remain_?type=blog)
