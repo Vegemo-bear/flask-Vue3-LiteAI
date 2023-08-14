@@ -24,5 +24,4 @@ https://github.com/Vegemo-bear/flask-Vue3-LiteAI/assets/127828066/1a9a6b30-43db-
 
 ##
 ### ⛈️ Finally and finally, Here are my other blogs!⛈️☔
-- ⭐  [Vegemo-bear's home page in zhihu ‍❤️‍](https://www.zhihu.com/people/ming-yue-yi-jiu-63/posts)
-- ⭐  [Vegemo-bear's home page in CSDN ‍❤️‍](https://blog.csdn.net/Moon_Remain_?type=blog)
+- ⭐  [Vegemo-bear's home page in bilibili ‍❤️‍](https://space.bilibili.com/388653705)
